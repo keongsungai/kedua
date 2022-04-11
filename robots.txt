@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+<<<<<<< HEAD
+Sitemap: https://indonews.herokuapp.com/sitemap.xml
+=======
+Sitemap: https://indonews.herokuapp.com/sitemap.xml
+>>>>>>> 240ee74c29e018de1d25146e5c757110295a8854
